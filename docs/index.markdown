@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Prala Python Library
+title: Prala Python Library へようこそ
 ---
-
-## どうもです。
 
 Pythonでの競技プログラミングに関するメモや、その他諸々の記録用サイトです。
