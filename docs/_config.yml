@@ -9,6 +9,9 @@ github_username:  kipra7
 theme: minima
 remote_theme: minima
 
+show_drafts: false
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
