@@ -6,10 +6,5 @@ layout: home
 title: Prala Python Library へようこそ
 ---
 
-<style>
-{
-    font-size: 120%;
-}
-</style>
 
 Pythonでの競技プログラミングに関するメモや、その他諸々の記録用サイトです。
