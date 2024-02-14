@@ -9,7 +9,7 @@ github_username:  kipra7
 theme: minima
 remote_theme: minima
 
-show_drafts: false
+list_title: Latest Posts
 
 
 # Exclude from processing.
