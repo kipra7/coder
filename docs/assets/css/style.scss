@@ -2,5 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+$font-size: 21px;
 
-$base-font-size:   20px;
+body {
+  font-size: $font-size;
+}
