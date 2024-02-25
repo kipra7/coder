@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 ## プロフィール
+<img src="GAQzljZakAAZ2ID.jpg">
+
 ### 名前
 KiPra / EZMario
 (競技プログラミングではEZMario名義を多用)
