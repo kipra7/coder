@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## プロフィール
-<img src="GAQzljZakAAZ2ID.jpg" width="123" height=456px >
+<img src="GAQzljZakAAZ2ID.jpg" width="225" height=400px >
 
 ### 名前
 KiPra / EZMario
