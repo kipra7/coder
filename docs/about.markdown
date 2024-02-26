@@ -18,4 +18,3 @@ Twitter(競プロ): [@E_Z_Mario](https://twitter.com/E_Z_Mario)
 Twitter(趣味等): [@M_KPra](https://twitter.com/M_KPra)
 
 ![Kotobuki](GAQzljZakAAZ2ID.jpg)
-<img src="GAQzljZakAAZ2ID.jpg" width="220" height=300px >
